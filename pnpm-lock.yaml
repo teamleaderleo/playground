@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       next:
-        specifier: link:../next.js
-        version: link:../next.js
+        specifier: link:../next.js/packages/next
+        version: link:../next.js/packages/next
       react:
         specifier: ^19.0.0
         version: 19.1.0
